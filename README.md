@@ -1,4 +1,6 @@
-### Eyy 👋
+### A resourceful team player with experience on common software applications and social media platforms. Well-versed in Python, Java, React, and team strategies and task organizations for attaining a successful project outcome. Skilled at project support with proven history of solutions-oriented problem solving through machine-learning, React, and Spring Boot projects. Currently specializes in Cloud Computing with Google Cloud Platform, Microsoft Azure, and Amazon Web Services. Progressively continues to master DevSecOps aspects and fundamentals.
+
+Also a research-driven and highly organized worker, bringing articulate communication skills and strong attention to detail, especially when it comes to data gathering and researching at the web. Dedicated, responsible, and eager to grow abilities while boosting operational success throughout workflows.
 
 <!--
 **RalphHenryDominisac/RalphHenryDominisac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
